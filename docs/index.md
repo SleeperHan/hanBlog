@@ -3,7 +3,7 @@ layout: home
 # 首页部分元素定制
 blog:
  name: '技术文学'
- motto: 闻道有先后,术业有专攻
+ motto: 记录生活
  inspiring:
   - 轻舟已过万重山
   - 千万不要因为走得太久，而忘记了我们为什么出发
