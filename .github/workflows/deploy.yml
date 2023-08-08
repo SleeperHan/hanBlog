@@ -9,8 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - run: npm i pnpm -g
-      - run: pnpm install
+      - run: npm i
 
       - name: Build
         run: pnpm docs:build
