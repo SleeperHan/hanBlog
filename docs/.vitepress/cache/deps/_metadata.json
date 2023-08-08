@@ -1,0 +1,152 @@
+{
+  "hash": "e9421f34",
+  "browserHash": "023864e1",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-browser.js",
+      "file": "vue.js",
+      "fileHash": "2d14ad58",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "71ab984b",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../../node_modules/.pnpm/element-plus@2.3.8_vue@3.3.4/node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "f6ed73cc",
+      "needsInterop": false
+    },
+    "mermaid": {
+      "src": "../../../../node_modules/.pnpm/mermaid@10.3.0/node_modules/mermaid/dist/mermaid.esm.mjs",
+      "file": "mermaid.js",
+      "fileHash": "c07f7685",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "classDiagram-v2-c4607319-6HNYFGUB": {
+      "file": "classDiagram-v2-c4607319-6HNYFGUB.js"
+    },
+    "stateDiagram-693ac5fb-BNPAZS7C": {
+      "file": "stateDiagram-693ac5fb-BNPAZS7C.js"
+    },
+    "stateDiagram-v2-8f2bb0da-O27EBI3V": {
+      "file": "stateDiagram-v2-8f2bb0da-O27EBI3V.js"
+    },
+    "chunk-NZJHSZYR": {
+      "file": "chunk-NZJHSZYR.js"
+    },
+    "journeyDiagram-9f355b40-2NK3RZBO": {
+      "file": "journeyDiagram-9f355b40-2NK3RZBO.js"
+    },
+    "flowchart-elk-definition-3f2388fe-B2GGBADK": {
+      "file": "flowchart-elk-definition-3f2388fe-B2GGBADK.js"
+    },
+    "timeline-definition-0c903a0d-RSJJX7JQ": {
+      "file": "timeline-definition-0c903a0d-RSJJX7JQ.js"
+    },
+    "mindmap-definition-35a1e92c-7WVYO5JC": {
+      "file": "mindmap-definition-35a1e92c-7WVYO5JC.js"
+    },
+    "sankeyDiagram-ebb0d63f-ILKLCE5X": {
+      "file": "sankeyDiagram-ebb0d63f-ILKLCE5X.js"
+    },
+    "gitGraphDiagram-5269e1d6-UPU7FBG3": {
+      "file": "gitGraphDiagram-5269e1d6-UPU7FBG3.js"
+    },
+    "ganttDiagram-f2041c70-YZ5ZFZMG": {
+      "file": "ganttDiagram-f2041c70-YZ5ZFZMG.js"
+    },
+    "infoDiagram-3fa6ea12-MCYHH2RT": {
+      "file": "infoDiagram-3fa6ea12-MCYHH2RT.js"
+    },
+    "pieDiagram-6d9582b9-RS7CI7BS": {
+      "file": "pieDiagram-6d9582b9-RS7CI7BS.js"
+    },
+    "chunk-VJHUPJUE": {
+      "file": "chunk-VJHUPJUE.js"
+    },
+    "chunk-DCK6CVMQ": {
+      "file": "chunk-DCK6CVMQ.js"
+    },
+    "quadrantDiagram-a1c81500-W4YY5MJO": {
+      "file": "quadrantDiagram-a1c81500-W4YY5MJO.js"
+    },
+    "chunk-YDCN7454": {
+      "file": "chunk-YDCN7454.js"
+    },
+    "chunk-KQ3LITNP": {
+      "file": "chunk-KQ3LITNP.js"
+    },
+    "requirementDiagram-3256a2fe-MTOOWNXM": {
+      "file": "requirementDiagram-3256a2fe-MTOOWNXM.js"
+    },
+    "sequenceDiagram-25152a15-JXPGAQRF": {
+      "file": "sequenceDiagram-25152a15-JXPGAQRF.js"
+    },
+    "classDiagram-819d3ad4-PLYEE5OD": {
+      "file": "classDiagram-819d3ad4-PLYEE5OD.js"
+    },
+    "chunk-5FD5X6QK": {
+      "file": "chunk-5FD5X6QK.js"
+    },
+    "chunk-752QZTVJ": {
+      "file": "chunk-752QZTVJ.js"
+    },
+    "c4Diagram-0115bee6-O4NXUKX4": {
+      "file": "c4Diagram-0115bee6-O4NXUKX4.js"
+    },
+    "chunk-PFCOFJYI": {
+      "file": "chunk-PFCOFJYI.js"
+    },
+    "flowDiagram-786cd8ff-JIC7AGCT": {
+      "file": "flowDiagram-786cd8ff-JIC7AGCT.js"
+    },
+    "flowDiagram-v2-65161881-JXSIUQOZ": {
+      "file": "flowDiagram-v2-65161881-JXSIUQOZ.js"
+    },
+    "chunk-H4WH6RUZ": {
+      "file": "chunk-H4WH6RUZ.js"
+    },
+    "chunk-PLIGWGU7": {
+      "file": "chunk-PLIGWGU7.js"
+    },
+    "chunk-FU3VEHSG": {
+      "file": "chunk-FU3VEHSG.js"
+    },
+    "chunk-FVGA36M3": {
+      "file": "chunk-FVGA36M3.js"
+    },
+    "chunk-DNSISDBO": {
+      "file": "chunk-DNSISDBO.js"
+    },
+    "chunk-4E57LY6E": {
+      "file": "chunk-4E57LY6E.js"
+    },
+    "erDiagram-de1b0455-LVSHG7J3": {
+      "file": "erDiagram-de1b0455-LVSHG7J3.js"
+    },
+    "chunk-FB5DLRDY": {
+      "file": "chunk-FB5DLRDY.js"
+    },
+    "chunk-ENWUTKDX": {
+      "file": "chunk-ENWUTKDX.js"
+    },
+    "chunk-INMXQVBL": {
+      "file": "chunk-INMXQVBL.js"
+    },
+    "chunk-QEODTIMM": {
+      "file": "chunk-QEODTIMM.js"
+    },
+    "chunk-T7U6YKVC": {
+      "file": "chunk-T7U6YKVC.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}
